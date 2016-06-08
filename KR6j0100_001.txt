@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:54.178042
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:16
 #+TITLE: 修藥師儀軌布壇法
 #+PROPERTY: CBETA_ID T19n0928
 #+PROPERTY: ID KR6j0100
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 928
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0100_T_000-0062c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0100_T_001-0062c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.928¶
+No. 928¶
 
-重刻藥師七佛供養儀軌經序
-:PROPERTIES:
-:head: 重刻藥師七佛供養儀軌經序
-:END:
-¶
+* 重刻藥師七佛供養儀軌經序¶
 ¶
 
 昔我佛在廣嚴城。以梵音聲說藥師七佛本¶
@@ -226,8 +222,7 @@ No.928¶
 ¶
 ¶
 ¶
-
- 修藥師儀軌布壇法¶
+修藥師儀軌布壇法¶
 ¶
 北京淨住寺住持阿旺扎什補譯¶
 
